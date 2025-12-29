@@ -16,8 +16,11 @@ It includes full data analysis, preprocessing, model training, evaluation, and d
 ## 🛠️ Technologies Used
 - Python
 - Pandas, NumPy
+- seaborn,matplotlib
 - Scikit-learn
-- XGBoost
+- Classification models(Logistic Regression,KNN,Decision Tree,Random Forest,SVM,XGBoost)
+- Grid Search
+- StandardScaler
 - Imbalanced-learn (SMOTE)
 - Streamlit
 
