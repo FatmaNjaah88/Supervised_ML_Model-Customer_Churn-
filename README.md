@@ -24,7 +24,4 @@ It includes full data analysis, preprocessing, model training, evaluation, and d
 - Imbalanced-learn (SMOTE)
 - Streamlit
 
-## ▶️ How to Run the App
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
